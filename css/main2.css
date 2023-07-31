@@ -1,0 +1,74 @@
+.col{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.col1{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: red;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    box-shadow:  5px 5px 30px 5px blue;
+}
+.col2{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    color: red;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    box-shadow: 25px 5px 30px 2px blue;
+}
+.col3{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    box-shadow: 25px 25px 15px blue;
+}
+.col4{
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    box-shadow: -5px 2px 40px   blue inset, 5px -2px 40px blue inset;
+
+}
+.col5{
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    box-shadow: 30px 3px 35px  blue inset, 5px -2px 35px blue inset;
+}
+.col6{
+    border: 2px solid blue;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    padding: 20px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    box-shadow: 20px 35px 15px  blue inset;
+}

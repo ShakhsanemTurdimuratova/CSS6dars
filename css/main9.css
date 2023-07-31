@@ -1,0 +1,163 @@
+body{
+    background-color: darkgray;
+}
+.text-block{
+    width: 500px;
+    height: 500px;
+    border: 1px solid white;
+    margin: 200px 0 0 650px;
+    position: relative;
+}
+.m1{
+    width: 60px;
+    height: 160px;
+    border: 1px none;
+    background-color: white;
+    border-radius: 10px 10px 20px 20px;
+    position: absolute;
+    top: 180px;
+    left: 80px;
+    animation: m1 1s linear infinite;
+}
+.n1{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n1 1s linear infinite;
+}
+.n2{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n2 1s linear infinite;
+}
+.n3{
+    border: 10px solid blue;
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px ;
+    animation: n3 1s linear infinite;
+}
+.m2{
+    width: 60px;
+    height: 180px;
+    border: 1px none;
+    background-color: white;
+    border-radius: 10px 10px 20px 20px;
+    position: absolute;
+    top: 160px;
+    left: 140px;
+    animation: m2 1s linear infinite;
+}
+.n4{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n4 1s linear infinite;
+}
+.n5{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n5 1s linear infinite;
+}
+.n6{
+    border: 10px solid blue;
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px ;
+    animation: n6 1s linear infinite;
+}
+.m3{
+    width: 60px;
+    height: 200px;
+    border: 1px none;
+    background-color: white;
+    border-radius: 10px 10px 20px 20px;
+    position: absolute;
+    top: 140px;
+    left: 200px;
+    animation: m3 1s linear infinite;
+}
+.n7{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n7 1s linear infinite;
+}
+.n8{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n8 1s linear infinite;
+}
+.n9{
+    border: 10px solid blue;
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px ;
+    animation: n9 1s linear infinite;
+}
+.m4 {
+    width: 60px;
+    height: 250px;
+    border: 1px none;
+    background-color: white;
+    border-radius: 10px 10px 20px 20px;
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    animation: m4 1s linear infinite;
+}
+.n10{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n7 1s linear infinite;
+}
+.n11{
+    border: 3px solid blue;
+    margin: 10px;
+    border-radius: 5px;
+    animation: n8 1s linear infinite;
+}
+.n12{
+    border: 10px solid blue;
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px ;
+    animation: n9 1s linear infinite;
+}
+.m5 {
+    width: 80px;
+    height: 120px;
+    border: 1px none;
+    background-color: white;
+    border-radius: 10px 10px 20px 20px;
+    position: absolute;
+    top: 120px;
+    left: 300px;
+    animation: m5 1s linear infinite;
+}
+.n13{
+    border: 10px solid blue;
+    margin-top: 80px;
+    margin-left: 10px;
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border-radius: 10px ;
+    animation: n13 1s linear infinite;
+}

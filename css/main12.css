@@ -1,0 +1,75 @@
+body{
+	background-color: grey;
+}
+.text{
+	width: 1200px;
+	height: 600px;
+	margin: 200px;
+	padding: 100px;
+	position: relative;
+}
+.card1{
+	border: 1px solid white;
+	width: 250px;
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	border-radius: 20px;
+	float: left;
+	transform: rotate(-20deg);
+	z-index: -10;
+    margin: 100px 0 0 0;
+    transition: z-index 0.4s ease-in-out,transform 1s ease-in-out;
+}
+.card2{
+	border: 1px solid white;
+	width: 250px;
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	border-radius: 20px;
+	float: left;
+	transform: rotate(-10deg);
+	z-index: -10;
+    margin: 40px 0 0 -70px;
+    transition: z-index 0.4s ease-in-out,transform 1s ease-in-out;
+}
+.card3{
+	border: 1px solid white;
+	width: 250px;
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	border-radius: 20px;
+	float: left;
+	transform: rotate(-10deg);
+	z-index: 2;
+    margin: 0 0 0 -60px;
+    transition: z-index 0.4s ease-in-out,transform 1s ease-in-out;
+}
+.card4{
+	border: 1px solid white;
+	width: 250px;
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	border-radius: 20px;
+	float: left;
+	transform: rotate(10deg);
+	z-index: 10;
+    margin: 30px 0 0 -60px;
+    transition: z-index 0.4s ease-in-out,transform 1s ease-in-out;
+}
+.card5{
+	border: 1px solid white;
+	width: 250px;
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	border-radius: 20px;
+	float: left;
+	transform: rotate(20deg);
+	z-index: 10;
+    margin: 40px 0 0 -50px;
+    transition: z-index 0.4s ease-in-out,transform 1s ease-in-out;
+}
